@@ -26,5 +26,6 @@
 			]
 		}
 	},
+	"runArgs": ["--name", "scala-dev"],
 	"remoteUser": "vscode"
 }
