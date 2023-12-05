@@ -1,52 +1,55 @@
 {
-    "files.trimTrailingWhitespace": true,
-    "[markdown]": {
-      "files.trimTrailingWhitespace": false
-    },
-    "files.insertFinalNewline": true,
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.editor.tabSizing": "shrink",
-    "zenMode.hideLineNumbers": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "editor.suggestSelection": "first",
-    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "files.associations": {
-      "Dockerfile*": "dockerfile"
-    },
-    "files.exclude": {
-      "**/__pycache__": true,
-      "**/.classpath": true,
-      "**/.factorypath": true,
-      "**/.mypy_cache": true,
-      "**/.project": true,
-      "**/.pytest_cache": true,
-      "**/.settings": true,
-      "**/.venv": true
-    },
-    "json.schemas": [],
-    "editor.renderWhitespace": "none",
-    "editor.bracketPairColorization.enabled": true,
-    "notebook.output.textLineLimit": 100,
-    "editor.codeActionsOnSave": {
-      "source.fixAll.eslint": true,
-      "source.fixAll.stylelint": true,
-      "source.addMissingImports": true
-    },
-    "editor.suggest.showMethods": true,
-    "editor.suggest.preview": true,
-    "editor.acceptSuggestionOnEnter": "on",
-    "editor.snippetSuggestions": "top",
-    "cSpell.ignoreWords": [],
-    "editor.minimap.enabled": false,
-    "audioCues.lineHasError": "off",
-    "editor.inlineSuggest.enabled": true,
-    "files.eol": "\n",
-    "diffEditor.ignoreTrimWhitespace": false,
-    "editor.quickSuggestions": {
-      "other": true,
-      "comments": true,
-      "strings": true
-    },
-  }
+  "files.trimTrailingWhitespace": true,
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false
+  },
+  "files.insertFinalNewline": true,
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.editor.tabSizing": "shrink",
+  "zenMode.hideLineNumbers": false,
+  "explorer.confirmDragAndDrop": false,
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.suggestSelection": "first",
+  "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+  "files.associations": {
+    "Dockerfile*": "dockerfile"
+  },
+  "files.exclude": {
+    "**/__pycache__": true,
+    "**/.classpath": true,
+    "**/.factorypath": true,
+    "**/.mypy_cache": true,
+    "**/.project": true,
+    "**/.pytest_cache": true,
+    "**/.settings": true,
+    "**/.venv": true
+  },
+  "json.schemas": [],
+  "editor.renderWhitespace": "none",
+  "editor.bracketPairColorization.enabled": true,
+  "notebook.output.textLineLimit": 100,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.stylelint": true,
+    "source.addMissingImports": true
+  },
+  "editor.suggest.showMethods": true,
+  "editor.suggest.preview": true,
+  "editor.acceptSuggestionOnEnter": "on",
+  "editor.snippetSuggestions": "top",
+  "cSpell.ignoreWords": [],
+  "editor.minimap.enabled": false,
+  "audioCues.lineHasError": "off",
+  "editor.inlineSuggest.enabled": true,
+  "files.eol": "\n",
+  "diffEditor.ignoreTrimWhitespace": false,
+  "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  },
+  "files.watcherExclude": {
+    "**/target": true
+  },
+}
