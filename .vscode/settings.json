@@ -38,7 +38,6 @@
     "editor.suggest.preview": true,
     "editor.acceptSuggestionOnEnter": "on",
     "editor.snippetSuggestions": "top",
-    "editor.fontFamily": "'HackGen35 Console NFJ', Menlo, Monaco, 'Courier New', monospace",
     "cSpell.ignoreWords": [],
     "editor.minimap.enabled": false,
     "audioCues.lineHasError": "off",
@@ -51,4 +50,3 @@
       "strings": true
     },
   }
-  
