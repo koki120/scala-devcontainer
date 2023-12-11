@@ -30,9 +30,9 @@
   "editor.bracketPairColorization.enabled": true,
   "notebook.output.textLineLimit": 100,
   "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true,
-    "source.fixAll.stylelint": true,
-    "source.addMissingImports": true
+    "source.fixAll.eslint": "explicit",
+    "source.fixAll.stylelint": "explicit",
+    "source.addMissingImports": "explicit"
   },
   "editor.suggest.showMethods": true,
   "editor.suggest.preview": true,
